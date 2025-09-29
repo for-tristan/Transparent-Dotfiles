@@ -7,4 +7,5 @@ Installation is easy just copy and overwrite the config files and make sure to c
 
 Use this 
 
-``` git clone https://https://github.com/for-tristan/Transparent-Dotfiles ```
+``` git clone https://github.com/for-tristan/Transparent-Dotfiles ```
+
